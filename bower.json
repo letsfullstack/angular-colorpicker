@@ -1,12 +1,12 @@
 {
-	"author": "Daniel Reznick",
-	"name": "angular-colorpicker-dr",
+	"author": "Lets Go",
+	"name": "@letsfullstack/angular-colorpicker",
 	"description": "The color picker for AngularJS - Native / Simple / Cool. No other dependencies are needed at all.",
-	"version": "0.1.2",
+	"version": "0.0.1",
 	"homepage": "http://vedmack.github.io/angular-colorpicker/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vedmack/angular-colorpicker/"
+		"url": "https://github.com/letsfullstack/angular-colorpicker/"
 	},
 	"main": [
 		"angular-colorpicker-dr.js",
